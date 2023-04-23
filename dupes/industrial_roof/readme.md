@@ -8,7 +8,6 @@
 <img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422175357_1.jpg"></img>
 <img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422175412_1.jpg"></img>
 <img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422175440_1.jpg"></img>
-<img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422175441_1.jpg"></img>
 <img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422175454_1.jpg"></img>
 <img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422175506_1.jpg"></img>
 <img src="https://github.com/logicguy1/Garrysmod-realestate/blob/main/dupes/industrial_roof/20230422180308_1.jpg"></img>
